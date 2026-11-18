@@ -1,2 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
-Console.Readline();
+﻿Console.WriteLine("Podaj imie: ");
