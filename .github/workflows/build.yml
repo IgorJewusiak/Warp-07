@@ -11,8 +11,7 @@ jobs:
       - name: Confirm runner
         shell: bash
         run: echo "Runner is ready"
-
-    steps:                     
+                     
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Show directory
