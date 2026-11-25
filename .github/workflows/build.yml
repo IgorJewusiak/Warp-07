@@ -10,7 +10,7 @@ on:
         - main
  
 env:
-  PROJECT_PATH: "Warp07.Demo"
+  PROJECT_PATH: Warp07.Demo/Warp07.Demo.csproj
 
 jobs:
   build:
